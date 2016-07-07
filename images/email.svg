@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 156 156">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+        stroke: #8797a2;
+        stroke-width: 6px;
+      }
+
+      .a, .b {
+        stroke-miterlimit: 10;
+      }
+
+      .b {
+        fill: #fcc453;
+        stroke: #fcc453;
+      }
+    </style>
+  </defs>
+  <title>email</title>
+  <circle class="a" cx="78" cy="78" r="75"/>
+  <path class="b" d="M36.17,45.9h77.29S87.93,71.9,79.4,80.32a5.3,5.3,0,0,1-7.23.68,9.56,9.56,0,0,1-1.47-1.22Z" transform="translate(3 3)"/>
+  <polygon class="b" points="36.5 51.82 36.5 104.43 62.63 78.28 36.5 51.82"/>
+  <polygon class="b" points="120.5 51.82 94.42 78.13 120.5 104.43 120.5 51.82"/>
+  <path class="b" d="M37.25,104.5l25.8-26.05c9.31,11.47,15.37,10.84,24.43,0l26,26H37.25Z" transform="translate(3 3)"/>
+</svg>

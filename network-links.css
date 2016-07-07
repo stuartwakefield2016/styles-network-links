@@ -59,3 +59,11 @@
 .gplus-network-link a::before {
   background-image: url("images/gplus.svg");
 }
+
+.email-network-link a::before {
+  background-image: url("images/email.svg");
+}
+
+.phone-network-link a::before {
+  background-image: url("images/phone.svg");
+}
