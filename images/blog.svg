@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 156 156">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+        stroke: #8797a2;
+        stroke-width: 6px;
+      }
+
+      .a, .b {
+        stroke-miterlimit: 10;
+      }
+
+      .b {
+        fill: #fcc453;
+        stroke: #fcc453;
+      }
+    </style>
+  </defs>
+  <title>blog</title>
+  <circle class="a" cx="78" cy="78" r="75"/>
+  <path class="b" d="M41.5,48.4V32.75c23,0.94,41.23,8,56.06,23.4C113.65,72.82,120,91.5,120.65,111.5h-15.8c0.17-17-6-32.56-19.37-45.35C74.64,55.74,61.5,48.7,41.5,48.4Z" transform="translate(2.29 2.88)"/>
+  <path class="b" d="M41.9,59.79C56.44,59.46,69,65.06,79.83,76c8.73,8.83,13.61,20.51,14.38,35.51H78.09c0.34-9-2.57-17.74-10-25.47C60.95,78.67,51.92,75.29,42,75.25Z" transform="translate(2.29 2.88)"/>
+  <circle class="b" cx="55.23" cy="103.7" r="10.56"/>
+</svg>

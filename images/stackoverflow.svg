@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 156 156">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+        stroke: #8797a2;
+        stroke-width: 6px;
+      }
+
+      .a, .b {
+        stroke-miterlimit: 10;
+      }
+
+      .b, .c {
+        fill: #fcc453;
+      }
+
+      .b {
+        stroke: #fcc453;
+      }
+    </style>
+  </defs>
+  <title>stackoverflow</title>
+  <circle class="a" cx="78" cy="78" r="75"/>
+  <rect class="b" x="52.95" y="96.92" width="41.71" height="8.19"/>
+  <polygon class="b" points="94.25 94.8 53.85 86.13 55.56 78.12 95.96 86.79 94.25 94.8"/>
+  <rect class="b" x="72.5" y="47.83" width="8.19" height="41.71" transform="translate(-14.91 112) rotate(-65)"/>
+  <rect class="b" x="80.97" y="34.02" width="8.19" height="41.71" transform="translate(-8.54 87.7) rotate(-50)"/>
+  <rect class="b" x="92.27" y="23.43" width="8.19" height="41.71" transform="translate(-4.13 69.84) rotate(-37)"/>
+  <polygon class="c" points="36.2 86.93 44.11 86.93 44.11 112.93 104.11 112.93 104.11 86.93 111.11 86.93 111.11 121.98 35.97 121.26 36.2 86.93"/>
+</svg>

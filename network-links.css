@@ -1,0 +1,61 @@
+.network-links {
+  padding-left: 2em;
+  list-style: none;
+}
+
+.network-link a {
+  padding: 0.5em;
+  border-bottom: 0;
+  display: block;
+  padding-left: 2.25em;
+}
+
+.network-links li {
+  padding: 0;
+}
+
+.network-link a {
+  color: #fcc453;
+}
+
+.network-link a::before {
+  content: "";
+  float: left;
+  width: 1.75em;
+  height: 1.75em;
+  background: url("images/web.svg") no-repeat center;
+  margin-left: -2em;
+  margin-top: -0.125em;
+}
+
+.twitter-network-link a::before {
+  background-image: url("images/twitter.svg");
+}
+
+.github-network-link a::before {
+  background-image: url("images/github.svg");
+}
+
+.stackoverflow-network-link a::before {
+  background-image: url("images/stackoverflow.svg");
+}
+
+.linkedin-network-link a::before {
+  background-image: url("images/linkedin.svg");
+}
+
+.instagram-network-link a::before {
+  background-image: url("images/instagram.svg");
+}
+
+.soundcloud-network-link a::before {
+  background-image: url("images/soundcloud.svg");
+}
+
+.blog-network-link a::before {
+  background-image: url("images/blog.svg");
+}
+
+.gplus-network-link a::before {
+  background-image: url("images/gplus.svg");
+}
