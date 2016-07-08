@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 156 156">
+  <defs>
+    <style>
+      .a {
+        fill: #fcc453;
+        stroke: #fcc453;
+        stroke-width: 6px;
+      }
+
+      .a, .c {
+        stroke-miterlimit: 10;
+      }
+
+      .b, .c {
+        fill: #8797a2;
+      }
+
+      .c {
+        stroke: #8797a2;
+      }
+    </style>
+  </defs>
+  <title>linkedin</title>
+  <circle class="a" cx="78" cy="78" r="75"/>
+  <rect class="b" x="39.71" y="65" width="16.96" height="50.57"/>
+  <path class="b" d="M55.21,46.39c0,4.5-4.25,9.07-9.49,9.07s-9.49-4.38-9.49-8.88,4.25-8.7,9.49-8.7S55.21,41.88,55.21,46.39Z" transform="translate(2.54 2.91)"/>
+  <path class="c" d="M63.5,62v50.43l16,0V82.26c2-5,4.82-7.49,9.31-8,4.9,0,7.8,2.63,8.5,7.93l0.21,30.3,16.83,0,0.11-30.83c-0.77-7.58-2.77-13.82-7.63-17A24.81,24.81,0,0,0,95.44,61c-6.55,0-12,2.18-15.37,8.26l0-7.19Z" transform="translate(2.54 2.91)"/>
+</svg>

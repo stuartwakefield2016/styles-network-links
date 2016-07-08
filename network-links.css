@@ -26,44 +26,89 @@
   background: url("images/web.svg") no-repeat center;
   margin-left: -2em;
   margin-top: -0.125em;
+  transition: background 0.25s linear;
+}
+
+.network-link a:hover::before {
+  background-image: url("images/web-hover.svg");
 }
 
 .twitter-network-link a::before {
   background-image: url("images/twitter.svg");
 }
 
+.twitter-network-link a:hover::before {
+  background-image: url("images/twitter-hover.svg");
+}
+
 .github-network-link a::before {
   background-image: url("images/github.svg");
+}
+
+.github-network-link a:hover::before {
+  background-image: url("images/github-hover.svg");
 }
 
 .stackoverflow-network-link a::before {
   background-image: url("images/stackoverflow.svg");
 }
 
+.stackoverflow-network-link a:hover::before {
+  background-image: url("images/stackoverflow-hover.svg");
+}
+
 .linkedin-network-link a::before {
   background-image: url("images/linkedin.svg");
+}
+
+.linkedin-network-link a:hover::before {
+  background-image: url("images/linkedin-hover.svg");
 }
 
 .instagram-network-link a::before {
   background-image: url("images/instagram.svg");
 }
 
+.instagram-network-link a:hover::before {
+  background-image: url("images/instagram-hover.svg");
+}
+
 .soundcloud-network-link a::before {
   background-image: url("images/soundcloud.svg");
+}
+
+.soundcloud-network-link a:hover::before {
+  background-image: url("images/soundcloud-hover.svg");
 }
 
 .blog-network-link a::before {
   background-image: url("images/blog.svg");
 }
 
+.blog-network-link a:hover::before {
+  background-image: url("images/blog-hover.svg");
+}
+
 .gplus-network-link a::before {
   background-image: url("images/gplus.svg");
+}
+
+.gplus-network-link a:hover::before {
+  background-image: url("images/gplus-hover.svg");
 }
 
 .email-network-link a::before {
   background-image: url("images/email.svg");
 }
 
+.email-network-link a:hover::before {
+  background-image: url("images/email-hover.svg");
+}
+
 .phone-network-link a::before {
   background-image: url("images/phone.svg");
+}
+
+.phone-network-link a:hover::before {
+  background-image: url("images/phone-hover.svg");
 }

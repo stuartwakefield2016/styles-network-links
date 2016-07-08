@@ -2,14 +2,14 @@
   <defs>
     <style>
       .a {
-        fill: none;
-        stroke: #8797a2;
+        fill: #fcc453;
+        stroke: #fcc453;
         stroke-miterlimit: 10;
         stroke-width: 6px;
       }
 
       .b {
-        fill: #fcc453;
+        fill: #8797a2;
       }
     </style>
   </defs>
