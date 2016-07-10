@@ -29,6 +29,10 @@
   transition: background 0.25s linear;
 }
 
+.network-link a::after {
+  display: none;
+}
+
 .network-link a:focus {
   outline: none;
 }
