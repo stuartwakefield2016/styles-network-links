@@ -30,7 +30,11 @@
 }
 
 .network-link a::after {
-  display: none;
+  border: none;
+  position: static;
+  bottom: auto;
+  left: auto;
+  right: auto;
 }
 
 .network-link a:focus {
