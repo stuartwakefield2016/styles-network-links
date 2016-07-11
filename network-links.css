@@ -3,7 +3,7 @@
   list-style: none;
 }
 
-.network-link a {
+.network-links a {
   padding: 0.5em;
   border-bottom: 0;
   display: block;
@@ -14,11 +14,11 @@
   padding: 0;
 }
 
-.network-link a {
+.network-links a {
   color: #fcc453;
 }
 
-.network-link a::before {
+.network-links a::before {
   content: "";
   float: left;
   width: 1.75em;
@@ -29,7 +29,7 @@
   transition: background 0.25s linear;
 }
 
-.network-link a::after {
+.network-links a::after {
   border: none;
   position: static;
   bottom: auto;
@@ -37,12 +37,12 @@
   right: auto;
 }
 
-.network-link a:focus {
+.network-links a:focus {
   outline: none;
 }
 
-.network-link a:hover::before,
-.network-link a:focus::before {
+.network-links a:hover::before,
+.network-links a:focus::before {
   background-image: url("images/web-hover.svg");
 }
 
